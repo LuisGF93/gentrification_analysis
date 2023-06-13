@@ -14,8 +14,11 @@
     - code/analysis.ipynb contiene el código relacionado con el análisis estadístico realizado sobre el conjunto de datos final.
     - code/h3_visualization.ipynb contiene el código relacionado con la muestra de mapas y la distribución de un par de variables de muestra sobre los contornos de los distintos distritos de Madrid.
 
-4. Modo de uso
+4. Memoria
+    - Se encuentra en la carpeta principal, Práctica_2.pdf.
+
+5. Modo de uso
     - Se recomienda crear un entorno virtual.
     - Tras ello, se puede ejecutar ´´´pip install -r requirements.txt´´´para instalar las librerías necesarias para la ejecución del código.
 
-5. Los ficheros h3 hacen referencia al código html generado desde pydeck para la visualización de los mapas. Se trata de mapas mínimamente interactivos (permiten desplazamiento a lo largo y ancho del mapa y se puede modificar el ángulo de ataque para mostrar una imagen más o menos vertical).
+6. Los ficheros h3 hacen referencia al código html generado desde pydeck para la visualización de los mapas. Se trata de mapas mínimamente interactivos (permiten desplazamiento a lo largo y ancho del mapa y se puede modificar el ángulo de ataque para mostrar una imagen más o menos vertical).
